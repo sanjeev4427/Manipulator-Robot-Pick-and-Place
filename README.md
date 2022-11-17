@@ -8,6 +8,13 @@ The following robot is used for this project. We have three motors as shown in t
   <img width="" height="" src="images/robot_manipulator_fig.png">
 </p>
 
+Top view is shown in left figure and side view in right figure.
+
+<p align="left">
+  <img width="350" height="" src="images/top_view.png">
+  <img width="500" height="" src="images/side_view.png">
+</p>
+
 Motor C is controlled by this equation: 
 <p align="center">
   <img width="" height="" src="images/theta3.png">
@@ -62,13 +69,15 @@ Retracting the Elbow.
 
 # Repo structure
 
-code: contains all the code for homing, picking, placing, calculating inverse kinematics.
+MATLAB code: contains all the code for homing, picking, placing, calculating inverse kinematics.
 
 # References
 
 https://de.mathworks.com/help/supportpkg/legomindstormsev3io/ref/motor.html
-https://www.hisour.com/behavior-based-robotics-43217/
+
 https://de.mathworks.com/discovery/inverse-kinematics.html
+
+https://www.hisour.com/behavior-based-robotics-43217/
 
 
 
